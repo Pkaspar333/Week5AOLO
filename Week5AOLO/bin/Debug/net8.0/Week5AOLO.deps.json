@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Week5AOLO/1.0.0": {
+        "runtime": {
+          "Week5AOLO.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Week5AOLO/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

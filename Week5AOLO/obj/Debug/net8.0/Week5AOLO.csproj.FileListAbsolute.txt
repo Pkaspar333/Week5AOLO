@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\bin\Debug\net8.0\Week5AOLO.exe
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\bin\Debug\net8.0\Week5AOLO.deps.json
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\bin\Debug\net8.0\Week5AOLO.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\bin\Debug\net8.0\Week5AOLO.dll
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\bin\Debug\net8.0\Week5AOLO.pdb
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\Week5AOLO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\Week5AOLO.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\Week5AOLO.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\Week5AOLO.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\Week5AOLO.dll
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\refint\Week5AOLO.dll
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\Week5AOLO.pdb
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\Week5AOLO.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOLO\obj\Debug\net8.0\ref\Week5AOLO.dll

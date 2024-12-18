@@ -1,0 +1,14 @@
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\bin\Debug\net8.0\Week5AOWR.exe
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\bin\Debug\net8.0\Week5AOWR.deps.json
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\bin\Debug\net8.0\Week5AOWR.runtimeconfig.json
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\bin\Debug\net8.0\Week5AOWR.dll
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\bin\Debug\net8.0\Week5AOWR.pdb
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\Week5AOWR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\Week5AOWR.AssemblyInfoInputs.cache
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\Week5AOWR.AssemblyInfo.cs
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\Week5AOWR.csproj.CoreCompileInputs.cache
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\Week5AOWR.dll
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\refint\Week5AOWR.dll
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\Week5AOWR.pdb
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\Week5AOWR.genruntimeconfig.cache
+C:\Users\Kaspar P\source\repos\Week5AOLO\Week5AOWR\obj\Debug\net8.0\ref\Week5AOWR.dll
